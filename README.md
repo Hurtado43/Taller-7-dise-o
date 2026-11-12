@@ -13,7 +13,17 @@ diseño por tres capas para una API REST.
 | Carpeta | Descripción |
 |---|---|
 | `smartlibrary/` | Proyecto Spring Boot (Java 21, Maven, Spring Web, Spring Data JPA, Validation, H2) |
-| `diagramas/` | Diagramas del taller en formato Visual Paradigm (`.vpd`) |
+| `diagramas/` | Diagramas del taller: imágenes y archivos fuente de Visual Paradigm (`.vpd`) |
+
+## Diagramas
+
+### Vista de desarrollo (clases por capas)
+
+![Diagrama de clases por capas](diagramas/vista-de-desarrollo.jpeg)
+
+### Diagrama de despliegue
+
+![Diagrama de despliegue](diagramas/diagrama-de-despliegue.jpeg)
 
 ## Caso de estudio
 
